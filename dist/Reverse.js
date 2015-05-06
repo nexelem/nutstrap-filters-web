@@ -1,0 +1,1 @@
+(function(){filtersModule.filter("reverse",function(){return function(items){return items&&items instanceof Array?items.slice().reverse():[]}})}).call(this);
