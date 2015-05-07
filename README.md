@@ -19,4 +19,7 @@ and add the module into angular
 
 finally you can add the js to your html, (index.html)
 
+To compile coffeescript, copy files to dist and concat into one use respectively grunt tasks: coffee, copy and uglify.
+grunt dist runs all those tasks.
+Complete, minified js file can be found in dist/filters-module.min.js
 
