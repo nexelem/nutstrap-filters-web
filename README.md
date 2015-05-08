@@ -1,4 +1,4 @@
-### angular-filters-web
+### nutstrap-filters-web
 
 This module contains AngularJS filters for a variety of String and collection manipulation.
 
