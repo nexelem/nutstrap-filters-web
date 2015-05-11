@@ -4,6 +4,7 @@
     "devDependencies": {
         "angular": "^1.2.27",
         "angular-flash": "git://github.com/wmluke/angular-flash.git",
+        "angular-mocks": "^1.2.27",
         "ng-i18n": "git://github.com/gertn/ng-i18n.git",
         "grunt": "^0.4.5",
         "grunt-contrib-coffee": "~0.13.0",

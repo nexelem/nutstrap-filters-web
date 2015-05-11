@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/nexelem/nutstrap-filters-web.svg)](https://travis-ci.org/nexelem/nutstrap-filters-web)
+
+
 ### nutstrap-filters-web
 
 This module contains AngularJS filters for a variety of String and collection manipulation.

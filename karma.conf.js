@@ -16,6 +16,8 @@ module.exports = function (config) {
             './node_modules/angular-flash/dist/angular-flash.js',
             './node_modules/ng-i18n/dist/*.js',
 
+            // Testing libs
+            './node_modules/angular-mocks/angular-mocks.js',
 
             // Test helper
             './test/BaseTestHelper.js',
